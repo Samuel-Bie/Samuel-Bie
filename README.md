@@ -12,13 +12,14 @@
 ***
 
 
-<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuel-bie&theme=algolia' width="500px">
-<img src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuel-bie&theme=algolia' width="500px">
-<img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samuel-bie&theme=algolia' width="500px">
-<img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuel-bie&theme=algolia' width="500px">
-<img src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samuel-bie&theme=algolia' width="500px">
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuel-bie&theme=nord_dark' width="500px">
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuel-bie&theme=nord_dark' width="270px">
 
 
-<!-- <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuel-bie&theme=nord_dark' width='555px'>
 
-<img align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuel-bie&theme=nord_dark' width='270px'> -->
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuel-bie&theme=nord_dark' width="270px">
+
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samuel-bie&theme=nord_dark' width="270px">
+
+
+<!-- <img src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samuel-bie&theme=nord_dark' width="500px"> -->
