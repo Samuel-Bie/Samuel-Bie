@@ -19,7 +19,7 @@ Everything about me, you can find it on my website: [https://samuel-bie.github.i
 <h3 align="left">Reach me elsewhere:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/samuelbie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelbie" height="30" width="40" /></a> <a href="https://twitter.com/https://twitter.com/samuelbie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/samuelbie" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samuelbie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelbie" height="30" width="40" /></a> <a href="https://twitter.com/Samuelbie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/samuelbie" height="30" width="40" /></a>
 
 </p>
 
